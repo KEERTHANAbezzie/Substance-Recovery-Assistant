@@ -1,7 +1,7 @@
 # Substance-Recovery-Assistant
 AI Recovery Companion — a calm, GenAI-powered support app for people navigating substance use recovery. 
 
-# Zero-typing check-ins, personalized emergency scripts, and an AI-written journal that remembers what actually helps.  
+Zero-typing check-ins, personalized emergency scripts, and an AI-written journal that remembers what actually helps.  
 
 README summary:  
 AI Recovery Companion  An emotionally intelligent recovery support app built around one idea: help someone make the next healthier decision, not fix their whole life in one sitting.  Instead of another mood tracker or chatbot, it works quietly in the background — noticing patterns, remembering what's helped before, and stepping in with something personal in the moments that matter most.  
